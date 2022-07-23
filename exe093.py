@@ -1,0 +1,2 @@
+jogador = dict()
+jogador
